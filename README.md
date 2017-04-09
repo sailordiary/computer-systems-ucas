@@ -1,6 +1,7 @@
 # 中国科学院大学 计算机组成原理实验课程
 # "Five projects to better understand key principles of computer systems", UCAS Spring 2017 Session
 本实验课程采用FPGA开发板（ZyPi）完成，分为五个子实验。
+Note: Due to copyright reasons, slides will not be uploaded
 
 ## 实验项目0 FPGA及工具开发流程
 见`Project 0`目录下相关文件。
