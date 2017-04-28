@@ -18,3 +18,6 @@ Note: Due to copyright reasons, slides will not be uploaded
 见`Project 2`目录下相关文件。
 ### 额外提示
  - 本次实验开始，采用“阶段提交”的方式开展实验任务。
+
+## 声明
+本repository中完成的代码仅供学习参考之用，版权归原作者所有；抄袭等行为后果自负！
