@@ -18,6 +18,12 @@ Note: Due to copyright reasons, slides will not be uploaded
 见`Project 2`目录下相关文件。
 ### 额外提示
  - 本次实验开始，采用“阶段提交”的方式开展实验任务。
+## 实验项目3 多周期处理器
+见`Project 3`目录下相关文件。
+### 注
+不同于CoD中给出的结构，我们将Instruction Memory与Data Memory统一为一块Ideal Memory。
+## 实验项目4 可执行程序的加载与硬件性能计数器
+见`Project 4`目录下相关文件。
 
 ## 声明
 本repository中完成的代码仅供学习参考之用，版权归原作者所有；抄袭等行为后果自负！
